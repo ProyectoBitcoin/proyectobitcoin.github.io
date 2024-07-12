@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyecto Bitcoin</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 12 Jul 2024 15:46:51 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First news</title>
+      <link>//localhost:1313/blog/news/first/</link>
+      <pubDate>Fri, 12 Jul 2024 15:46:51 -0400</pubDate>
+      <guid>//localhost:1313/blog/news/first/</guid>
+      <description>Testing news Probando blog.</description>
+    </item>
+    <item>
+      <title>Second post</title>
+      <link>//localhost:1313/blog/posts/second/</link>
+      <pubDate>Fri, 12 Jul 2024 15:46:51 -0400</pubDate>
+      <guid>//localhost:1313/blog/posts/second/</guid>
+      <description>Testing post Probando blog.</description>
+    </item>
+    <item>
+      <title>Quiénes Somos</title>
+      <link>//localhost:1313/quienes-somos/</link>
+      <pubDate>Wed, 26 Jul 2023 23:00:37 -0400</pubDate>
+      <guid>//localhost:1313/quienes-somos/</guid>
+      <description>Proyecto Bitcoin es una iniciativa de dos entusiastas de las libertades individuales, creyentes de que, por sus propiedades, la primera criptomoneda no es menos que un derecho humano. Por lo tanto, cualquier persona, sin distinción de raza, origen, idioma, status legal o país de residencia, debería poder usarla de forma segura y sin restricciones.&#xA;Esto solo será posible mediante el libre acceso a información precisa y educación de calidad sobre Bitcoin.</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>//localhost:1313/contacto/</link>
+      <pubDate>Wed, 26 Jul 2023 22:47:09 -0400</pubDate>
+      <guid>//localhost:1313/contacto/</guid>
+      <description>Correo electrónico *comunidad@proyectobitcoin.com *mercadeo@proyectobitcoin.com</description>
+    </item>
+    <item>
+      <title>¿Qué es Bitcoin?</title>
+      <link>//localhost:1313/basic/que-es-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/basic/que-es-bitcoin/</guid>
+      <description>Todo comenzó el 1º de noviembre de 2008, cuando un participante de una lista de correos de desarrolladores, activistas por unas comunicaciones más anónimas, envió un mensaje que decía:&#xA;&amp;ldquo;He estado trabajando en un nuevo sistema de efectivo electrónico que es totalmente entre pares, sin terceros de confianza&amp;rdquo;&#xA;Esas palabras fueron escritas por Satoshi Nakamoto, y el título del mensaje era: “Bitcoin P2P e-cash paper”(Bitcoin, Propuesta de efectivo electrónicos entre pares).</description>
+    </item>
+    <item>
+      <title>¿Qué son las criptomonedas?</title>
+      <link>//localhost:1313/basic/que-son-las-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/basic/que-son-las-criptomonedas/</guid>
+      <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
+    </item>
+    <item>
+      <title>Bitcoin Básico</title>
+      <link>//localhost:1313/abc-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/abc-de-bitcoin/</guid>
+      <description>Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo.&#xA;¿Qué es Bitcoin?&#xA;¿Qué son las criptomonedas?&#xA;¿Qué es el dinero?&#xA;¿Qué es el Libro blanco de Bitcoin?&#xA;¿Bitcoin es dinero?&#xA;¿Qué es una wallet de bitcoin?&#xA;¿Qué es la minería de Bitcoin?&#xA;¿Qué le da valor a Bitcoin?&#xA;¿Por qué no nos gustan los bancos?</description>
+    </item>
+  </channel>
+</rss>

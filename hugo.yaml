@@ -1,0 +1,231 @@
+baseURL: ""
+languageCode: es
+title: "Proyecto Bitcoin"
+theme: 'hugo-fresh'
+
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# Disables warnings
+disableKinds:
+- taxonomy
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/logotipo-encabezado.png
+    link: /
+    # Default width/height. Uncomment if you need to change
+    width: 200
+    height: 8
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Bitcoin es fácil
+    # Hero subtitle (optional)
+    subtitle: No es solo para expertos, sino para todos quienes valoran la libertad. Aprende de forma sencilla, práctica, gratuita y en español.
+    # Button text
+    buttontext: Inicia Gratis
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/portada-web-v4.svg
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+  # clientlogos:
+   # - logo: systek
+   #   url: https://google.com
+   # - logo: tribe
+   #   url: https://stefma.github.io/hugo-fresh/
+   # - logo: kromo
+   #   url: https://github.com/StefMa/hugo-fresh
+   # - logo: infinite
+   #   url: https://hugo-fresh.vercel.app/
+   # - logo: gutwork
+   #   url: https://bulma.io/
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Aprende
+    sublinks:
+    - title: Básico
+      url: /abc-de-bitcoin/
+    - title: Intermedio
+      url: /
+    - title: Cursos y asesorías
+      url: /
+  - title: Efemérides
+    url: /
+  - title: Blog
+    sublinks:
+    - title: Noticias
+      url: /blog/news/first
+    - title: Posts
+      url: /blog/posts/second 
+  - title: Podcasts
+    sublinks:
+    - title: El Bit
+      url: /
+    - title: Bitcoin desde cero
+      url: /
+    - title: Bitcoin en breve
+      url: /
+  - title: Quiénes somos
+    url: /quienes-somos/
+# - title: Acceder
+#   url: /
+  - title: Registro
+    url: https://forms.gle/X4Df1DyoqNaEGpdr8
+    button: true
+#  sidebar:
+    # Logo (from static/images/logos/___.svg)
+    #logo: fresh-square
+    #sections:
+    #- title: User
+      #icon: user
+      #links:
+      #- text: Profile
+        #url: /
+      #- text: Account
+        #url: /
+      #- text: Settings
+        #url: /
+    #- title: Messages
+      #icon: envelope
+      #links:
+      #- text: Inbox
+        #url: /
+      #- text: Compose
+        #url: /
+    #- title: Images
+      #icon: image
+      #links:
+      #- text: Library
+        #url: /
+      #- text: Upload
+        #url: /
+    #- title: Settings
+      #icon: cog
+      #links:
+      #- text: User settings
+        #url: /
+      #- text: App settings
+        #url: /
+  #section1:
+    #title: Aprendizaje sin límites
+    #subtitle: Accede los cursos online más sencillos y completos en idioma español.
+    #tiles:
+    #- title: Bitcoin sin KYC
+      #icon: mouse-globe
+      #text: Los mejores métodos p2p para comprar y vender bitcoin
+      #url: /
+      #buttonText: Comprar $0.00
+    #- title: Mi primer nodo
+      #icon: laptop-cloud
+      #text: Instala y configura tu propio nodo de Bitcoin
+      #url: /
+      #buttonText: Comprar $0.00
+    #- title: Exploradores de bloques 
+      #icon: plug-cloud
+      #text: Aprende a encontrar datos en la blockchain de Bitcoin
+      #url: /
+      #buttonText: Comprar $0.00
+  section2:
+    title: Estás aquí porque quieres aprender bitcoin
+    subtitle: Accede a la mejor información, sencilla, completa y en español.
+    features:
+    - title: Conceptos básicos
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      # Icon (from static/images/illustrations/icons/___.svg)
+      icon: doc-sync
+    - title: Nodos y Seguirdad
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: laptop-globe
+    - title: Compraventa y Wallets
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: mobile-feed
+  #section3:
+    #title: One platform
+    #subtitle: To rule them all
+    #image: illustrations/mockups/app-mockup.png
+    #buttonText: Get started
+    #buttonLink: "#"
+  section4:
+    title: Disfruta nuestros podcast
+    subtitle: Información, entretenimiento, tutoriales, conversaciones y más.
+    clients:
+    - name: 
+      quote: El Bit. Resumen informativo semanal de 5 minutos. Mantente al día y entérate de las noticias más relevantes de la industria bitcoiner. Narradas de forma amena, breve y concisa.
+      job: Noticias 
+    - name: 
+      quote: Bitcoin desde Cero. Conversaciones con bitcoiners reales que nos cuentan sus experiencias y opiniones. La mejor forma aprendizaje con perspectiva.
+      job: Conversaciones   
+    - name: 
+      quote: Bitcoin en breve. Entretenidos videos cortos, diseñados para facilitar la comprensión y fijar los conocimientos. Nos inspiramos en las notas atómicas de Luhmann.
+      job: Tutoriales y guias 
+  section5:
+    title: Escríbenos unas líneas
+    subtitle: Nos encantaría saber de ti
+    buttonText: Enviar Mensaje
+    action: https://formspree.io/f/xjkbkvee
+    method: POST
+  footer:
+    # Logo (from static/images/logos/___)
+    logo: fondo-naranja-ok.svg
+    # Social Media Title
+    socialmediatitle: Síguenos
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/StefMa
+      # Icons are from Font Awesome
+      icon: github
+    #- link: https://dribbble.com/#
+      #icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/StefMa91
+      icon: twitter
+    #- link: https://bitbucket.org/#
+      #icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Our roadmap
+          link: /
+        - text: AGB
+          link: /agb
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /
+        - text: User guides
+          link: /
+        - text: Admin guide
+          link: /
+        - text: Developers
+          link: /
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/news/first
+        - text: Tech articles
+          link: /blog/posts/second

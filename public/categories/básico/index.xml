@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Básico on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/b%C3%A1sico/</link>
+    <description>Recent content in Básico on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/b%C3%A1sico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin Básico</title>
+      <link>//localhost:1313/abc-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/abc-de-bitcoin/</guid>
+      <description>Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo.&#xA;¿Qué es Bitcoin?&#xA;¿Qué son las criptomonedas?&#xA;¿Qué es el dinero?&#xA;¿Qué es el Libro blanco de Bitcoin?&#xA;¿Bitcoin es dinero?&#xA;¿Qué es una wallet de bitcoin?&#xA;¿Qué es la minería de Bitcoin?&#xA;¿Qué le da valor a Bitcoin?&#xA;¿Por qué no nos gustan los bancos?</description>
+    </item>
+  </channel>
+</rss>
