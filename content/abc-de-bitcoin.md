@@ -6,7 +6,7 @@ sidebar: false
 include_footer: true
 ---
 
-<img src="/static/images/illustrations/Imagen-ABC-2.pnghu/" alt="cover-abc-bitcoin" width="280px">
+<img src="/static/images/illustrations/Imagen-ABC-2.png/" alt="cover-abc-bitcoin" width="280px">
 
 Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo.
 
