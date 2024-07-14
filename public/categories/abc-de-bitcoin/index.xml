@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABC De Bitcoin on Proyecto Bitcoin</title>
-    <link>//localhost:1313/categories/abc-de-bitcoin/</link>
+    <link>http://localhost:1313/categories/abc-de-bitcoin/</link>
     <description>Recent content in ABC De Bitcoin on Proyecto Bitcoin</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="//localhost:1313/categories/abc-de-bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/abc-de-bitcoin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué es Bitcoin?</title>
-      <link>//localhost:1313/basic/que-es-bitcoin/</link>
+      <link>http://localhost:1313/basic/que-es-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/basic/que-es-bitcoin/</guid>
+      <guid>http://localhost:1313/basic/que-es-bitcoin/</guid>
       <description>Todo comenzó el 1º de noviembre de 2008, cuando un participante de una lista de correos de desarrolladores, activistas por unas comunicaciones más anónimas, envió un mensaje que decía:&#xA;&amp;ldquo;He estado trabajando en un nuevo sistema de efectivo electrónico que es totalmente entre pares, sin terceros de confianza&amp;rdquo;&#xA;Esas palabras fueron escritas por Satoshi Nakamoto, y el título del mensaje era: “Bitcoin P2P e-cash paper”(Bitcoin, Propuesta de efectivo electrónicos entre pares).</description>
     </item>
     <item>
       <title>¿Qué son las criptomonedas?</title>
-      <link>//localhost:1313/basic/que-son-las-criptomonedas/</link>
+      <link>http://localhost:1313/basic/que-son-las-criptomonedas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/basic/que-son-las-criptomonedas/</guid>
+      <guid>http://localhost:1313/basic/que-son-las-criptomonedas/</guid>
       <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
     </item>
   </channel>

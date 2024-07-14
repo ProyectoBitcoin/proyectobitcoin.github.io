@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-07-12T15:46:51-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/news/first/</loc>
+    <loc>http://localhost:1313/blog/news/first/</loc>
     <lastmod>2024-07-12T15:46:51-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-12T15:46:51-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/posts/second/</loc>
+    <loc>http://localhost:1313/blog/posts/second/</loc>
     <lastmod>2024-07-12T15:46:51-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/quienes-somos/</loc>
+    <loc>http://localhost:1313/quienes-somos/</loc>
     <lastmod>2023-07-26T23:00:37-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contacto/</loc>
+    <loc>http://localhost:1313/contacto/</loc>
     <lastmod>2023-07-26T22:47:09-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/basic/que-es-bitcoin/</loc>
+    <loc>http://localhost:1313/basic/que-es-bitcoin/</loc>
   </url><url>
-    <loc>//localhost:1313/basic/que-son-las-criptomonedas/</loc>
+    <loc>http://localhost:1313/basic/que-son-las-criptomonedas/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/abc-de-bitcoin/</loc>
+    <loc>http://localhost:1313/categories/abc-de-bitcoin/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/b%C3%A1sico/</loc>
+    <loc>http://localhost:1313/categories/b%C3%A1sico/</loc>
   </url><url>
-    <loc>//localhost:1313/basic/</loc>
+    <loc>http://localhost:1313/basic/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/bitcoin/</loc>
+    <loc>http://localhost:1313/categories/bitcoin/</loc>
   </url><url>
-    <loc>//localhost:1313/abc-de-bitcoin/</loc>
+    <loc>http://localhost:1313/abc-de-bitcoin/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/conceptos-b%C3%A1sicos/</loc>
+    <loc>http://localhost:1313/categories/conceptos-b%C3%A1sicos/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/criptomonedas/</loc>
+    <loc>http://localhost:1313/categories/criptomonedas/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/definici%C3%B3n/</loc>
+    <loc>http://localhost:1313/categories/definici%C3%B3n/</loc>
   </url>
 </urlset>

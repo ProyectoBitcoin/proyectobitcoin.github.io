@@ -1,4 +1,4 @@
-baseURL: "https://proyectobitcoin.github.io/proyectobitcoin.github.io"
+baseURL: "https://proyectobitcoin.github.io/"
 languageCode: es
 title: "Proyecto Bitcoin"
 theme: 'hugo-fresh'
