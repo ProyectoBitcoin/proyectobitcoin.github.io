@@ -60,7 +60,7 @@ params:
     - title: Básico
       url: /abc-de-bitcoin/
     - title: Intermedio
-      url: /
+      url: /intermedio/
     - title: Cursos y asesorías
       url: /
   - title: Efemérides
@@ -78,7 +78,7 @@ params:
     - title: Bitcoin desde cero
       url: /
     - title: Bitcoin en breve
-      url: /
+      url: /bitcoin-en-breve/
   - title: Quiénes somos
     url: /quienes-somos/
 # - title: Acceder

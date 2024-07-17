@@ -1,10 +1,10 @@
 ---
-layout: post
-title: ¿Qué es Bitcoin?
+title: "¿Qué es Bitcoin?"
 date: 2023-01-18 12:42
-author: proyecto.encriptado@gmail.com
-comments: true
-categories: [ABC de Bitcoin, Bitcoin, Conceptos Básicos, definición]
+author: "Proyecto Bitcoin"
+categories: [ABC de Bitcoin, Bitcoin, Conceptos Básicos, Definición]
+sidebar: false 
+include_footer: true
 ---
 
 Todo comenzó el 1º de noviembre de 2008, cuando un participante de una lista de correos de desarrolladores, activistas por unas comunicaciones más anónimas, envió un mensaje que decía:
@@ -29,5 +29,9 @@ Así nació una nueva economía a la altura de un mundo digitalizado. Surgió de
 
 **Bitcoin nació en el corazón del movimiento cypherpunk y su alma es revolucionaria.**
 
-| [◀ Anterior](/abc-de-bitcoin/) | [Siguiente ▶](/basic/que-son-las-criptomonedas/) |
-| :------------- | --------------: |
+[¿Qué es Bitcoin?](https://youtu.be/cHHFbCAbmic?si=UXZcGZLyFhR2aSE5)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cHHFbCAbmic?si=UXZcGZLyFhR2aSE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+|  [◀ Anterior](/#/) | [⏹︎ Inicio](/abc-de-bitcoin/) | [Siguiente ▶](/"#"/) |
+| :------------- | :-------------: | --------------: |

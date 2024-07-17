@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+
+
+
+<meta property="og:url" content="http://localhost:1313/basic/bitcoin-es-dinero/">
+  <meta property="og:site_name" content="Proyecto Bitcoin">
+  <meta property="og:title" content="¿Bitcoin es dinero?">
+  <meta property="og:description" content="El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.
+Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día.">
+  <meta property="og:locale" content="es">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="basic">
+
+
+<meta name="description" content="Hardcoded description; the author should update :)" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Proyecto Bitcoin</title>
+    
+<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link href="https://fonts.googleapis.com/css?family=Open&#43;Sans:400,600" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/icons.css">
+
+  </head>
+  <body>
+    
+    
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+    
+
+    
+
+  
+<nav class="navbar is-fresh is-transparent no-shadow" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="/images/logos/logotipo-encabezado.png" alt="" width="200" height="8">
+      </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+      <div id="navbar-menu" class="navbar-menu is-static">
+
+        <div class="navbar-end">
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Aprende
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/abc-de-bitcoin/" class="navbar-item">
+                Básico
+              </a>
+              <a href="/intermedio/" class="navbar-item">
+                Intermedio
+              </a>
+              <a href="/" class="navbar-item">
+                Cursos y asesorías
+              </a>
+            </div>
+          </div>
+          <a href="/" class="navbar-item is-secondary">
+            Efemérides
+          </a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Blog
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/blog/news/first" class="navbar-item">
+                Noticias
+              </a>
+              <a href="/blog/posts/second" class="navbar-item">
+                Posts
+              </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Podcasts
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/" class="navbar-item">
+                El Bit
+              </a>
+              <a href="/" class="navbar-item">
+                Bitcoin desde cero
+              </a>
+              <a href="/bitcoin-en-breve/" class="navbar-item">
+                Bitcoin en breve
+              </a>
+            </div>
+          </div>
+          <a href="/quienes-somos/" class="navbar-item is-secondary">
+            Quiénes somos
+          </a>
+          <a href="https://forms.gle/X4Df1DyoqNaEGpdr8" class="navbar-item">
+            <span class="button signup-button rounded secondary-btn raised">
+              Registro
+            </span>
+          </a>
+        </div>
+      </div>
+  </div>
+</nav>
+
+
+<nav id="navbar-clone" class="navbar is-fresh is-transparent" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="/images/logos/logotipo-encabezado.png" alt="" width="200" height="200">
+      </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="cloned-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="cloned-navbar-menu" class="navbar-menu is-fixed">
+
+      <div class="navbar-end">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Aprende
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/abc-de-bitcoin/" class="navbar-item">
+              Básico
+            </a>
+            <a href="/intermedio/" class="navbar-item">
+              Intermedio
+            </a>
+            <a href="/" class="navbar-item">
+              Cursos y asesorías
+            </a>
+          </div>
+        </div>
+        <a href="/" class="navbar-item is-secondary">
+          Efemérides
+        </a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Blog
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/blog/news/first" class="navbar-item">
+              Noticias
+            </a>
+            <a href="/blog/posts/second" class="navbar-item">
+              Posts
+            </a>
+          </div>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Podcasts
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/" class="navbar-item">
+              El Bit
+            </a>
+            <a href="/" class="navbar-item">
+              Bitcoin desde cero
+            </a>
+            <a href="/bitcoin-en-breve/" class="navbar-item">
+              Bitcoin en breve
+            </a>
+          </div>
+        </div>
+        <a href="/quienes-somos/" class="navbar-item is-secondary">
+          Quiénes somos
+        </a>
+        <a href="https://forms.gle/X4Df1DyoqNaEGpdr8" class="navbar-item">
+          <span class="button signup-button rounded secondary-btn raised">
+            Registro
+          </span>
+        </a>
+      </div>
+    </div>
+</div>
+</nav>
+
+<section class="section is-medium">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-centered-tablet-portrait">
+        <h1 class="title section-title">¿Bitcoin es dinero?</h1>
+        <h5 class="subtitle is-5 is-muted"></h5>
+        <div class="divider"></div>
+      </div>
+    </div>
+
+    <div class="content">
+      <p>El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.</p>
+<p>Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día. Se intercambiaban semillas, animales o metales que luego se podían transformar en herramientas y joyas, o consumirse en caso de necesidad.</p>
+<p>Hoy en día, se concibe más como una deuda. Lo que intercambiamos es el valor (basado en el consenso) de un servicio o bien que estamos intercambiando. Si yo le corto el cabello a alguien, esa persona me devuelve un “vale” (billetes y monedas) que dice que recibió de mí un servicio por un valor x . Luego yo uso ese “vale” para ir al supermercado y comprar papas. El dueño del mercado, a su vez, lo usa para pagar el trabajo de sus empleados. Toda la estructura del valor monetario se basa en la promesa del valor.</p>
+<h2 id="cómo-surgió-el-dinero">¿Cómo surgió el dinero?</h2>
+<p>Al principio, el valor del bien cambiado era relativo al que le diera el receptor. Si tengo muchas conchas marinas, seguramente no me interese (o le dé poco valor) a un pago en ese bien. Pero si vivo lejos del mar, las apreciaré más. Para evitar esas variaciones, los primeros imperios optaron por “acuñar” moneda, en metales que, en sí mismos, eran un bien. El acuñado daba una garantía mínima de valor, ya que era el gobierno, en la figura del emperador, el que respaldaba la moneda.</p>
+<p>En las ciudades que se ubicaban en las rutas de comercio, y en los puertos, con frecuencia se usaban muchas monedas sin distingo del ente que las acuñara. También es cierto que las tasas de cambio variaban mucho.</p>
+<p>Para todos los efectos, las monedas de metal cumplían los rasgos simples: portabilidad, durabilidad, fungibilidad, reconocimiento y escasez.</p>
+<p>El tiempo y la tecnología permitió cambiar las monedas por la representación de su valor. Nació así el papel moneda (y los bancos). <strong>La creación del papel moneda fue la innovación más importante para la economía por miles de años.</strong> Permitió el comercio entre ciudades mucho más lejanas y, con el nacimiento de los bancos, surgieron otras de las grandes novedades: el crédito y las aseguradoras.</p>
+<h2 id="de-las-monedas-al-dinero-plástico">De las monedas al dinero plástico</h2>
+<p>Muchos años después, la siguiente gran innovación surgió sobre esas novedades: el pago en plástico. Este nuevo método se basó en el crédito y en la posibilidad de acceder a él a través de los bancos. Los reguladores transfirieron la responsabilidad de la vigilancia a las entidades financieras. Ahora los ciudadanos respondemos rutinariamente preguntas como: ¿De dónde viene tu capital? ¿En qué lo estás gastando?</p>
+<p>También se naturalizó que los gobiernos auxiliaran a los bancos. En el bloque génesis de Bitcoin está inscrito el titular del periódico británico The Times, donde se anuncia la decisión del gobierno de ese país de dar un rescate financiero a los bancos afectados por la crisis hipotecaria de 2008.</p>
+<h2 id="bitcoin-el-mejor-dinero">Bitcoin: el mejor dinero</h2>
+<p>En ese entorno, Satoshi Nakamoto propone Bitcoin: un sistema de efectivo electrónico entre pares, sin terceros de confianza. Es decir, sin nadie en el medio que avale o respalde esos trozos de información que, al igual que los dólares o los euros, usamos como dinero.</p>
+<p>Pero Bitcoin ¿Es dinero?. Repasemos las características:</p>
+<ul>
+<li>
+<p><strong>Divisibilidad:</strong> Bitcoin se puede dividir en cien millonésimas partes, llamadas satoshis. También podría dividirse en partes aún más pequeñas, como  microsatoshis y milisatoshis, si alguna vez hay la necesidad.</p>
+</li>
+<li>
+<p><strong>Portabilidad:</strong> Bitcoin, al ser digital, es un dinero extremadamente portátil.</p>
+</li>
+<li>
+<p><strong>Durabilidad:</strong> Bitcoin es información, que no se desgasta, y está protegida por un sistema inhackeable.</p>
+</li>
+<li>
+<p><strong>Recognoscibilidad:</strong> Aunque su uso todavía no es generalizado, pocas personas hay que no sepan qué es.</p>
+</li>
+<li>
+<p><strong>Escasez:</strong> Con un tope de 21 millones, la escasez de Bitcoin viene por diseño.</p>
+</li>
+</ul>
+<p><em>Le podríamos añadir otras características que lo hacen un dinero fuerte: es descentralizado, no conoce fronteras, es abierto y es resistente a la censura.</em></p>
+<p>La respuesta corta a la pregunta de nuestro título sería: Bitcoin es dinero. La respuesta larga es: posiblemente Bitcoin sea el mejor dinero inventado hasta ahora.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><a href="/#/">◀ Anterior</a></th>
+<th style="text-align:center"><a href="/abc-de-bitcoin/">⏹︎ Inicio</a></th>
+<th style="text-align:right"><a href="/%22#%22/">Siguiente ▶</a></th>
+</tr>
+</thead>
+</table>
+
+    </div>
+  </div>
+</section>
+
+
+
+  
+  
+<footer class="footer footer-dark">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <div class="footer-logo">
+          <img src="/images/logos/fondo-naranja-ok.svg">
+        </div>
+      </div>
+        <div class="column">
+          <div class="footer-column">
+            <div class="footer-header">
+                <h3>Product</h3>
+            </div>
+            <ul class="link-list">
+              <li>
+                <a href="/">
+                  Discover features
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  Why choose our product?
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  Compare features
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  Our roadmap
+                </a>
+              </li>
+              <li>
+                <a href="/agb">
+                  AGB
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="column">
+          <div class="footer-column">
+            <div class="footer-header">
+                <h3>Docs</h3>
+            </div>
+            <ul class="link-list">
+              <li>
+                <a href="/">
+                  Get started
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  User guides
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  Admin guide
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  Developers
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="column">
+          <div class="footer-column">
+            <div class="footer-header">
+                <h3>Blog</h3>
+            </div>
+            <ul class="link-list">
+              <li>
+                <a href="/blog/news/first">
+                  Latest news
+                </a>
+              </li>
+              <li>
+                <a href="/blog/posts/second">
+                  Tech articles
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      <div class="column">
+        <div class="footer-column">
+          <div class="footer-header">
+            <h3>Síguenos</h3>
+            <nav class="level is-mobile">
+              <div class="level-left">
+                <a class="level-item" href="https://github.com/StefMa">
+                  <span class="icon"><i class="fa fa-github"></i></span>
+                </a>
+                <a class="level-item" href="https://facebook.com/#">
+                  <span class="icon"><i class="fa fa-facebook"></i></span>
+                </a>
+                <a class="level-item" href="https://twitter.com/StefMa91">
+                  <span class="icon"><i class="fa fa-twitter"></i></span>
+                </a>
+              </div>
+            </nav>
+            <a href="https://bulma.io" target="_blank">
+              <img src="/images/logos/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+
+  
+
+
+
+    
+    <div id="backtotop"><a href="#"></a></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script src="/js/fresh.js"></script>
+<script src="/js/jquery.panelslider.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+  </body>
+</html>
