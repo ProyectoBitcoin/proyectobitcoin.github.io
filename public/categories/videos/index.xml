@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Proyecto Bitcoin</title>
+    <link>http://localhost:1313/categories/videos/</link>
+    <description>Recent content in Videos on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/categories/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por qué Bitcoin importa para los Derechos Humanos?</title>
+      <link>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</guid>
+      <description>Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;Bitcoin y Derechos Humanos&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
+      <title>Bitcoin en Breve</title>
+      <link>http://localhost:1313/bitcoin-en-breve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitcoin-en-breve/</guid>
+      <description>Aprender sobre Bitcoin es fácil, si se hace poco a poco. Una serie de videos de menos de 5 minutos.&#xA;¿Por qué Bitcoin importa para los Derechos Humanos? 3 claves para entender Bitcoin&#xD;4 herramientas para usar Bitcoin más fácil&#xD;4 tips para usar Bitcoin con seguridad&#xD;¿Por qué desapareció Satoshi Nakamoto?&#xD;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xD;Estafas más comunes en el mundo de Bitcoin&#xD;¿Cómo funciona Lightning Network?</description>
+    </item>
+  </channel>
+</rss>

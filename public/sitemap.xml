@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/bitcoin/</loc>
+    <lastmod>2024-07-17T09:43:28-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intermedio/</loc>
+    <lastmod>2024-07-17T09:43:28-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/indice/</loc>
+    <lastmod>2024-07-17T09:43:28-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/intermedio/</loc>
+    <lastmod>2024-07-17T09:43:28-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-17T09:43:28-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/video/</loc>
+    <lastmod>2024-07-17T09:43:28-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-07-12T15:46:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/news/first/</loc>
-    <lastmod>2024-07-12T15:46:51-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-12T15:46:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/second/</loc>
@@ -20,6 +35,8 @@
     <loc>http://localhost:1313/contacto/</loc>
     <lastmod>2023-07-26T22:47:09-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</loc>
+  </url><url>
     <loc>http://localhost:1313/basic/que-es-bitcoin/</loc>
   </url><url>
     <loc>http://localhost:1313/basic/que-son-las-criptomonedas/</loc>
@@ -30,14 +47,22 @@
   </url><url>
     <loc>http://localhost:1313/basic/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/bitcoin/</loc>
-  </url><url>
     <loc>http://localhost:1313/abc-de-bitcoin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/bitcoin-en-breve/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bitcoin-en-breve/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/conceptos-b%C3%A1sicos/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/criptomonedas/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/definici%C3%B3n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/derechos-humanos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/videos/</loc>
   </url>
 </urlset>
