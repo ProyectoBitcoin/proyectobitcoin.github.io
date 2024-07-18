@@ -16,10 +16,10 @@ Te invitamos a descubrir Bitcoin con nosotras.
 
 ## Elena Cazes
 
-| <img src="/images/Elena-Cazes.png" alt="cover-abc-bitcoin" width="380px"> | Inició en Bitcoin en 2017. Creadora de varios podcast como En Consenso y El Bit. Cofundadora de Proyecto Bitcoin. Podcaster, productora, locutora y editora en diferentes proyectos audiovisuales de Bitcoin y Derechos Humanos. |
+| <img src="/images/Elena-Cazes.png" alt="Elena" width="380px"> | Inició en Bitcoin en 2017. Creadora de varios podcast como En Consenso y El Bit. Cofundadora de Proyecto Bitcoin. Podcaster, productora, locutora y editora en diferentes proyectos audiovisuales de Bitcoin y Derechos Humanos. |
 | :-------------: | :-------------- |
 
 ## Genny Díaz
 
-| <img src="/images/foto-CV-9.png" alt="cover-abc-bitcoin" width="380px"> | Periodista con más de 25 años de experiencia en comunicación y publicaciones. Reportera, productora, editora y directora de contenidos de Bitcoin desde 2018. Cofundadora de Proyecto Bitcoin y parte del equipo de La Librería de Satoshi. |
+| <img src="/images/foto-CV-9.png" alt="Genny" width="380px"> | Periodista con más de 25 años de experiencia en comunicación y publicaciones. Reportera, productora, editora y directora de contenidos de Bitcoin desde 2018. Cofundadora de Proyecto Bitcoin y parte del equipo de La Librería de Satoshi. |
 | :-------------: | :-------------- |

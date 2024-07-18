@@ -1,12 +1,15 @@
 ---
 title: "Bitcoin Básico"
 date: 2023-03-02 20:13
-categories: [Básico]
+categories: ['Básico']
+tags: ['minería de bitcoin', 'dinero']
 sidebar: false 
 include_footer: true
 ---
 
 Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo.
+
+![Cover Bitcoin Básico](/images/illustrations/imagen-ABC-2.png "bla bla bla")
 
 * [¿Qué es Bitcoin?](/basic/que-es-bitcoin/)
 

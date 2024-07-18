@@ -60,7 +60,7 @@ params:
     - title: Básico
       url: /abc-de-bitcoin/
     - title: Intermedio
-      url: /
+      url: /intermedio/
     - title: Cursos y asesorías
       url: /
   - title: Efemérides
@@ -144,14 +144,14 @@ params:
     subtitle: Accede a la mejor información, sencilla, completa y en español.
     features:
     - title: Conceptos básicos
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Domina el abc de Bitcoin. Entiende los principios que lo hacen tan especial, como la descentralizacion e inmutabilidad; y sus procesos principales como la minería y el intercambio de monedas.
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: doc-sync
     - title: Nodos y Seguirdad
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Descubre el papel que juegan los nodos de Bitcoin para su correcto funcionamiento y para la protección de sus usuarios.
       icon: laptop-globe
     - title: Compraventa y Wallets
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Aprende los diferentes métodos para comprar y vender bitcoin de forma segura. Conoce las wallets más usadas, su funcionamiento, ventajas y desventajas.
       icon: mobile-feed
   #section3:
     #title: One platform

@@ -39,5 +39,9 @@
     <loc>http://localhost:1313/categories/criptomonedas/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/definici%C3%B3n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/dinero/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/miner%C3%ADa-de-bitcoin/</loc>
   </url>
 </urlset>
