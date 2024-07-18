@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bancos on Proyecto Bitcoin</title>
+    <link>http://localhost:1313/categories/bancos/</link>
+    <description>Recent content in Bancos on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/categories/bancos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin es resistente a la censura y a tu gobierno no le gusta</title>
+      <link>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</guid>
+      <description>La blockchain de Bitcoin tiene cinco características que la hacen fuerte: puede ser auditada por cualquiera; no conoce las fronteras; es distribuida (no tiene puntos centrales que puedan ser atacados); es neutral, lo que significa que todos los participantes son iguales, no discrimina y es resistente a la censura.&#xA;Un dinero que no puede ser censurado es un dinero libre, que no admite reguladores que pongan coto a su alcance. Es la versión digital del pago en efectivo</description>
+    </item>
+  </channel>
+</rss>

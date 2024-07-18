@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+  
+
+
+
+<meta property="og:url" content="http://localhost:1313/intermediate/como-funciona-lightning-network/">
+  <meta property="og:site_name" content="Proyecto Bitcoin">
+  <meta property="og:title" content="¿Cómo funciona Lightning Network?">
+  <meta property="og:description" content="Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.
+◀ Anterior ⏹︎ Inicio Siguiente ▶ ">
+  <meta property="og:locale" content="es">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="intermediate">
+
+
+<meta name="description" content="Hardcoded description; the author should update :)" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Proyecto Bitcoin</title>
+    
+<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link href="https://fonts.googleapis.com/css?family=Open&#43;Sans:400,600" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/icons.css">
+
+  </head>
+  <body>
+    
+    
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+    
+
+    
+
+  
+<nav class="navbar is-fresh is-transparent no-shadow" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="/images/logos/logotipo-encabezado.png" alt="" width="200" height="8">
+      </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+      <div id="navbar-menu" class="navbar-menu is-static">
+
+        <div class="navbar-end">
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Aprende
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/abc-de-bitcoin/" class="navbar-item">
+                Básico
+              </a>
+              <a href="/intermedio/" class="navbar-item">
+                Intermedio
+              </a>
+              <a href="/" class="navbar-item">
+                Cursos y asesorías
+              </a>
+            </div>
+          </div>
+          <a href="/" class="navbar-item is-secondary">
+            Efemérides
+          </a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Blog
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/blog/news/first" class="navbar-item">
+                Noticias
+              </a>
+              <a href="/blog/posts/second" class="navbar-item">
+                Posts
+              </a>
+            </div>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Podcasts
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/" class="navbar-item">
+                El Bit
+              </a>
+              <a href="/" class="navbar-item">
+                Bitcoin desde cero
+              </a>
+              <a href="/bitcoin-en-breve/" class="navbar-item">
+                Bitcoin en breve
+              </a>
+            </div>
+          </div>
+          <a href="/quienes-somos/" class="navbar-item is-secondary">
+            Quiénes somos
+          </a>
+          <a href="https://forms.gle/X4Df1DyoqNaEGpdr8" class="navbar-item">
+            <span class="button signup-button rounded secondary-btn raised">
+              Registro
+            </span>
+          </a>
+        </div>
+      </div>
+  </div>
+</nav>
+
+
+<nav id="navbar-clone" class="navbar is-fresh is-transparent" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="/images/logos/logotipo-encabezado.png" alt="" width="200" height="200">
+      </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="cloned-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="cloned-navbar-menu" class="navbar-menu is-fixed">
+
+      <div class="navbar-end">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Aprende
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/abc-de-bitcoin/" class="navbar-item">
+              Básico
+            </a>
+            <a href="/intermedio/" class="navbar-item">
+              Intermedio
+            </a>
+            <a href="/" class="navbar-item">
+              Cursos y asesorías
+            </a>
+          </div>
+        </div>
+        <a href="/" class="navbar-item is-secondary">
+          Efemérides
+        </a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Blog
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/blog/news/first" class="navbar-item">
+              Noticias
+            </a>
+            <a href="/blog/posts/second" class="navbar-item">
+              Posts
+            </a>
+          </div>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Podcasts
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/" class="navbar-item">
+              El Bit
+            </a>
+            <a href="/" class="navbar-item">
+              Bitcoin desde cero
+            </a>
+            <a href="/bitcoin-en-breve/" class="navbar-item">
+              Bitcoin en breve
+            </a>
+          </div>
+        </div>
+        <a href="/quienes-somos/" class="navbar-item is-secondary">
+          Quiénes somos
+        </a>
+        <a href="https://forms.gle/X4Df1DyoqNaEGpdr8" class="navbar-item">
+          <span class="button signup-button rounded secondary-btn raised">
+            Registro
+          </span>
+        </a>
+      </div>
+    </div>
+</div>
+</nav>
+
+<section class="section is-medium">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-centered-tablet-portrait">
+        <h1 class="title section-title">¿Cómo funciona Lightning Network?</h1>
+        <h5 class="subtitle is-5 is-muted"></h5>
+        <div class="divider"></div>
+      </div>
+    </div>
+
+    <div class="content">
+      <p>Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.</p>
+<div style="width:50%; margin: auto;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbnWQd0Dyog?si=jMyaoNEkBIEINju2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><a href="/#/">◀ Anterior</a></th>
+<th style="text-align:center"><a href="/bitcoin-en-breve/">⏹︎ Inicio</a></th>
+<th style="text-align:right"><a href="/%22#%22/">Siguiente ▶</a></th>
+</tr>
+</thead>
+</table>
+
+    </div>
+  </div>
+</section>
+
+
+
+  
+
+  
+
+
+
+    
+    <div id="backtotop"><a href="#"></a></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script src="/js/fresh.js"></script>
+<script src="/js/jquery.panelslider.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+  </body>
+</html>

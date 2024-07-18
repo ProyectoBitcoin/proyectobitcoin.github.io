@@ -8,11 +8,19 @@
     <language>es</language>
     <atom:link href="http://localhost:1313/intermediate/index.xml" rel="self" type="application/rss+xml" />
     <item>
+<<<<<<< HEAD
       <title>Prueba 1</title>
       <link>http://localhost:1313/intermediate/testing1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intermediate/testing1/</guid>
       <description>Página de prueba asf;vnafv.</description>
+=======
+      <title>¿Por qué Bitcoin importa para los Derechos Humanos?</title>
+      <link>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</guid>
+      <description>Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;Bitcoin y Derechos Humanos&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+>>>>>>> 209b00516b162b6a0a24ced47b78ae2fb22268f2
     </item>
   </channel>
 </rss>
