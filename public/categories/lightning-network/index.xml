@@ -8,11 +8,18 @@
     <language>es</language>
     <atom:link href="http://localhost:1313/categories/lightning-network/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>¿Cómo funciona Lightning Network?</title>
+      <link>http://localhost:1313/intermediate/como-funciona-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/como-funciona-lightning-network/</guid>
+      <description>Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
       <title>Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot</title>
       <link>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</guid>
-      <description>&#xD;Te presentamos al Roboto LNp2pBot. Te enseñamos como usarlo para comprar y vender satoshis con Lightning Network, fácil, rápido y sin entregar tu privacidad.&#xA;https://youtu.be/i9IzqZrRUMQ&#xD;Anterior&#xD;Principal&#xD;Siguiente </description>
+      <description>Te presentamos al Roboto LNp2pBot. Te enseñamos como usarlo para comprar y vender satoshis con Lightning Network, fácil, rápido y sin entregar tu privacidad.&#xA;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
     </item>
   </channel>
 </rss>

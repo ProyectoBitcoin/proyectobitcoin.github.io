@@ -8,6 +8,20 @@
     <language>es</language>
     <atom:link href="http://localhost:1313/categories/conceptos-b%C3%A1sicos/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>¿Bitcoin es dinero?</title>
+      <link>http://localhost:1313/basic/bitcoin-es-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-dinero/</guid>
+      <description>El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.&#xA;Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día.</description>
+    </item>
+    <item>
+      <title>¿Cómo empezar con Bitcoin?</title>
+      <link>http://localhost:1313/basic/como-empezar-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/como-empezar-con-bitcoin/</guid>
+      <description>Si ya te interesaste en Bitcoin y comienzas a entender qué es y por qué deberías usarlo, es posible que ya tengas ganas de obtener tu primera pequeña fracción de esta criptomoneda. Bitcoin es fácil de comprar. También es muy sencillo volver a intercambiarlo por cualquier moneda fíat cuando lo necesites.&#xA;Aunque es bueno que te intereses en comprender sus fundamentos técnicos y su filosofía, en realidad no es indispensable para comenzar a acumular tus primeros bitcoin y vivir la experiencia de uso.</description>
+    </item>
+    <item>
       <title>¿Qué es Bitcoin?</title>
       <link>http://localhost:1313/basic/que-es-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,6 +34,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/basic/que-son-las-criptomonedas/</guid>
       <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
+    </item>
+    <item>
+      <title>Bitcoin es resistente a la censura y a tu gobierno no le gusta</title>
+      <link>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</guid>
+      <description>La blockchain de Bitcoin tiene cinco características que la hacen fuerte: puede ser auditada por cualquiera; no conoce las fronteras; es distribuida (no tiene puntos centrales que puedan ser atacados); es neutral, lo que significa que todos los participantes son iguales, no discrimina y es resistente a la censura.&#xA;Un dinero que no puede ser censurado es un dinero libre, que no admite reguladores que pongan coto a su alcance. Es la versión digital del pago en efectivo</description>
     </item>
   </channel>
 </rss>

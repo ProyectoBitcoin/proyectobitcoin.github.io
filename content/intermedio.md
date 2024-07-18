@@ -8,7 +8,11 @@ include_footer: true
 
 ## Avancemos un Paso Más
 
-Hablemos de Bitcoin, ahora empieza lo divertido
+Ahora empieza lo divertido
 
-|   | [Comenzar ▶](/Intermediate/bitcoin_derechos_humanos/) |
+* [¿Por qué Bitcoin importa para los Derechos Humanos?](/intermediate/bitcoin_derechos_humanos/)
+* [Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot](/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/)
+* [¿Cómo funciona Lightning Network?](/intermediate/como-funciona-lightning-network/)
+
+|   | [Comenzar ▶](/intermediate/bitcoin_derechos_humanos/) |
 | :------------- | --------------: |

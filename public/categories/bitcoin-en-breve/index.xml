@@ -8,18 +8,46 @@
     <language>es</language>
     <atom:link href="http://localhost:1313/categories/bitcoin-en-breve/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>¿Bitcoin es legal?</title>
+      <link>http://localhost:1313/basic/bitcoin-es-legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-legal/</guid>
+      <description>Todavía hay personas que se preguntan si Bitcoin es legal. Muchos gobiernos han propuesto regulaciones, pero lo cierto es que ninguna ley puede evitar que Bitcoin siga funcionando.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
+      <title>¿Cómo funciona Lightning Network?</title>
+      <link>http://localhost:1313/intermediate/como-funciona-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/como-funciona-lightning-network/</guid>
+      <description>Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
       <title>¿Por qué Bitcoin importa para los Derechos Humanos?</title>
       <link>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</guid>
-      <description>Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;Bitcoin y Derechos Humanos&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+      <description>Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
+      <title>3 claves para entender Bitcoin</title>
+      <link>http://localhost:1313/basic/claves_entender_bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/claves_entender_bitcoin/</guid>
+      <description>Aunque se trata de una tecnología compleja, resuelve una antigua búsqueda: dinero libre, sin fronteras y accesible para todos&#xA;3 claves para entender Bitcoin&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
     </item>
     <item>
       <title>Bitcoin en Breve</title>
       <link>http://localhost:1313/bitcoin-en-breve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bitcoin-en-breve/</guid>
-      <description>Aprender sobre Bitcoin es fácil, si se hace poco a poco. Una serie de videos de menos de 5 minutos.&#xA;¿Por qué Bitcoin importa para los Derechos Humanos? 3 claves para entender Bitcoin&#xD;4 herramientas para usar Bitcoin más fácil&#xD;4 tips para usar Bitcoin con seguridad&#xD;¿Por qué desapareció Satoshi Nakamoto?&#xD;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xD;Estafas más comunes en el mundo de Bitcoin&#xD;¿Cómo funciona Lightning Network?</description>
+      <description>Aprender sobre Bitcoin es fácil, si se hace poco a poco. Una serie de videos de menos de 5 minutos.&#xA;¿Por qué Bitcoin importa para los Derechos Humanos?&#xA;3 claves para entender Bitcoin&#xA;4 herramientas para usar Bitcoin más fácil&#xA;4 tips para usar Bitcoin con seguridad&#xA;¿Por qué desapareció Satoshi Nakamoto?&#xA;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xA;Estafas más comunes en el mundo de Bitcoin</description>
+    </item>
+    <item>
+      <title>Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot</title>
+      <link>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</guid>
+      <description>Te presentamos al Roboto LNp2pBot. Te enseñamos como usarlo para comprar y vender satoshis con Lightning Network, fácil, rápido y sin entregar tu privacidad.&#xA;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
     </item>
   </channel>
 </rss>

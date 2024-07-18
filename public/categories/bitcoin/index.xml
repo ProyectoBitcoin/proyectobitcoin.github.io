@@ -13,14 +13,42 @@
       <link>http://localhost:1313/intermedio/</link>
       <pubDate>Wed, 17 Jul 2024 09:43:28 -0400</pubDate>
       <guid>http://localhost:1313/intermedio/</guid>
-      <description>Avancemos un Paso Más Hablemos de Bitcoin, ahora empieza lo divertido&#xA;Comenzar ▶ </description>
+      <description>Avancemos un Paso Más Ahora empieza lo divertido&#xA;¿Por qué Bitcoin importa para los Derechos Humanos? Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot ¿Cómo funciona Lightning Network? Comenzar ▶ </description>
+    </item>
+    <item>
+      <title>¿Bitcoin es dinero?</title>
+      <link>http://localhost:1313/basic/bitcoin-es-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-dinero/</guid>
+      <description>El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.&#xA;Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día.</description>
+    </item>
+    <item>
+      <title>¿Bitcoin es legal?</title>
+      <link>http://localhost:1313/basic/bitcoin-es-legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-legal/</guid>
+      <description>Todavía hay personas que se preguntan si Bitcoin es legal. Muchos gobiernos han propuesto regulaciones, pero lo cierto es que ninguna ley puede evitar que Bitcoin siga funcionando.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
+      <title>¿Cómo empezar con Bitcoin?</title>
+      <link>http://localhost:1313/basic/como-empezar-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/como-empezar-con-bitcoin/</guid>
+      <description>Si ya te interesaste en Bitcoin y comienzas a entender qué es y por qué deberías usarlo, es posible que ya tengas ganas de obtener tu primera pequeña fracción de esta criptomoneda. Bitcoin es fácil de comprar. También es muy sencillo volver a intercambiarlo por cualquier moneda fíat cuando lo necesites.&#xA;Aunque es bueno que te intereses en comprender sus fundamentos técnicos y su filosofía, en realidad no es indispensable para comenzar a acumular tus primeros bitcoin y vivir la experiencia de uso.</description>
+    </item>
+    <item>
+      <title>¿Cómo funciona Lightning Network?</title>
+      <link>http://localhost:1313/intermediate/como-funciona-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/como-funciona-lightning-network/</guid>
+      <description>Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
     </item>
     <item>
       <title>¿Por qué Bitcoin importa para los Derechos Humanos?</title>
       <link>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</guid>
-      <description>Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;Bitcoin y Derechos Humanos&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+      <description>Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
     </item>
     <item>
       <title>¿Qué es Bitcoin?</title>
@@ -37,11 +65,39 @@
       <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
     </item>
     <item>
+      <title>3 claves para entender Bitcoin</title>
+      <link>http://localhost:1313/basic/claves_entender_bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/claves_entender_bitcoin/</guid>
+      <description>Aunque se trata de una tecnología compleja, resuelve una antigua búsqueda: dinero libre, sin fronteras y accesible para todos&#xA;3 claves para entender Bitcoin&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
+    </item>
+    <item>
+      <title>Bitcoin Básico</title>
+      <link>http://localhost:1313/abc-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/abc-de-bitcoin/</guid>
+      <description>Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo.&#xA;¿Qué es Bitcoin?&#xA;¿Qué son las criptomonedas?&#xA;[¿Qué es el dinero?]&#xA;[¿Qué es el Libro blanco de Bitcoin?]&#xA;¿Bitcoin es dinero?&#xA;[¿Qué es una wallet de bitcoin?]&#xA;[¿Qué es la minería de Bitcoin?]&#xA;[¿Qué le da valor a Bitcoin?]&#xA;[¿Por qué no nos gustan los bancos?</description>
+    </item>
+    <item>
       <title>Bitcoin en Breve</title>
       <link>http://localhost:1313/bitcoin-en-breve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bitcoin-en-breve/</guid>
-      <description>Aprender sobre Bitcoin es fácil, si se hace poco a poco. Una serie de videos de menos de 5 minutos.&#xA;¿Por qué Bitcoin importa para los Derechos Humanos? 3 claves para entender Bitcoin&#xD;4 herramientas para usar Bitcoin más fácil&#xD;4 tips para usar Bitcoin con seguridad&#xD;¿Por qué desapareció Satoshi Nakamoto?&#xD;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xD;Estafas más comunes en el mundo de Bitcoin&#xD;¿Cómo funciona Lightning Network?</description>
+      <description>Aprender sobre Bitcoin es fácil, si se hace poco a poco. Una serie de videos de menos de 5 minutos.&#xA;¿Por qué Bitcoin importa para los Derechos Humanos?&#xA;3 claves para entender Bitcoin&#xA;4 herramientas para usar Bitcoin más fácil&#xA;4 tips para usar Bitcoin con seguridad&#xA;¿Por qué desapareció Satoshi Nakamoto?&#xA;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xA;Estafas más comunes en el mundo de Bitcoin</description>
+    </item>
+    <item>
+      <title>Bitcoin es resistente a la censura y a tu gobierno no le gusta</title>
+      <link>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</guid>
+      <description>La blockchain de Bitcoin tiene cinco características que la hacen fuerte: puede ser auditada por cualquiera; no conoce las fronteras; es distribuida (no tiene puntos centrales que puedan ser atacados); es neutral, lo que significa que todos los participantes son iguales, no discrimina y es resistente a la censura.&#xA;Un dinero que no puede ser censurado es un dinero libre, que no admite reguladores que pongan coto a su alcance. Es la versión digital del pago en efectivo</description>
+    </item>
+    <item>
+      <title>Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot</title>
+      <link>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</guid>
+      <description>Te presentamos al Roboto LNp2pBot. Te enseñamos como usarlo para comprar y vender satoshis con Lightning Network, fácil, rápido y sin entregar tu privacidad.&#xA;Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot&#xA;◀ Anterior ⏹︎ Inicio Siguiente ▶ </description>
     </item>
   </channel>
 </rss>

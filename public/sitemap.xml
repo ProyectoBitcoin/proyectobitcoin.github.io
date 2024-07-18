@@ -35,13 +35,25 @@
     <loc>http://localhost:1313/contacto/</loc>
     <lastmod>2023-07-26T22:47:09-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/basic/bitcoin-es-dinero/</loc>
+  </url><url>
+    <loc>http://localhost:1313/basic/bitcoin-es-legal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/basic/como-empezar-con-bitcoin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intermediate/como-funciona-lightning-network/</loc>
+  </url><url>
     <loc>http://localhost:1313/intermediate/bitcoin_derechos_humanos/</loc>
   </url><url>
     <loc>http://localhost:1313/basic/que-es-bitcoin/</loc>
   </url><url>
     <loc>http://localhost:1313/basic/que-son-las-criptomonedas/</loc>
   </url><url>
+    <loc>http://localhost:1313/basic/claves_entender_bitcoin/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/abc-de-bitcoin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/bancos/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/b%C3%A1sico/</loc>
   </url><url>
@@ -53,6 +65,12 @@
   </url><url>
     <loc>http://localhost:1313/bitcoin-en-breve/</loc>
   </url><url>
+    <loc>http://localhost:1313/basic/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/censura/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/conceptos-b%C3%A1sicos/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/criptomonedas/</loc>
@@ -61,7 +79,17 @@
   </url><url>
     <loc>http://localhost:1313/categories/derechos-humanos/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/dinero/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/historia/</loc>
+  </url><url>
     <loc>http://localhost:1313/intermediate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/leyes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/lightning-network/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/lnp2pbot/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/videos/</loc>
   </url>

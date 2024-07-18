@@ -13,5 +13,5 @@ Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protoco
 
 </div>
 
-|  [◀ Anterior](/#/) | [⏹︎ Inicio](/bitcoin-en-breve/) | [Siguiente ▶](/"#"/) |
+|  [◀ Anterior](/#/) | [⏹︎ Inicio](/intermedio/) | [Siguiente ▶](/"#"/) |
 | :------------- | :-------------: | --------------: |
